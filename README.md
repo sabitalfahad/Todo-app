@@ -22,21 +22,21 @@ Built using **FreeSimpleGUI** and plain text storage, this app is perfect for qu
 ```bash
 git clone https://github.com/sabitalfahad/Todo-app.git
 cd Todo-app
-
 2️⃣ Install Requirements
-
 Make sure you have Python 3.8+ installed. Then install the GUI library:
-<pre>pip install FreeSimpleGUI</pre>
 
+bash
+Copy code
+pip install FreeSimpleGUI
 3️⃣ Run the App
-<pre>python app.py</pre>
-
-
+bash
+Copy code
+python app.py
 🧪 Running Tests
-<pre>python test_app.py</pre>
-
+bash
+Copy code
+python test_app.py
 🛠️ Tech Stack
-
 Python (core logic & persistence)
 
 FreeSimpleGUI (lightweight GUI library)
@@ -44,8 +44,15 @@ FreeSimpleGUI (lightweight GUI library)
 Plain Text Storage (no database required)
 
 🤝 Contributing
-
 Pull requests and suggestions are welcome!
 If you’d like to contribute, please fork the repo and open a PR.
 
+📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
 
+pgsql
+Copy code
+
+If you want, I can also **make it visually appealing with badges** at the top for Python version, license, and GitHub stars. This gives a more “professional GitHub” feel.  
+
+Do you want me to do that?
