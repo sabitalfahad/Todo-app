@@ -15,3 +15,6 @@ env/
 # Project specific
 todos.txt
 *.log
+
+# File
+todos.txt
