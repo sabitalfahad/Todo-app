@@ -1,38 +1,54 @@
-Python Todo App
-A simple and intuitive desktop todo application built with Python and the `PySimpleGUI` library. This app allows you to easily manage your daily tasks.
+# ✅ Todo App
 
-Features
-Add new todos to your list.
+A simple **To-Do List App** built with **Python** and **FreeSimpleGUI**.  
+Easily manage your daily tasks with a clean and lightweight interface.
 
-Edit existing todos.
+---
 
-Complete (remove) todos once they are finished.
+## ✨ Features
 
-App Preview
-How to Run the Application
-Prerequisites
-You need to have Python installed on your system. This application also requires the PySimpleGUI library.
+- ➕ Add new tasks  
+- 🗑️ Remove tasks  
+- ✅ Mark tasks as completed  
+- 📂 Tasks saved automatically in a text file  
+- 📅 Current date displayed in the UI  
+- 🔄 Clear all tasks at once  
 
-Installation
-Install PySimpleGUI: Open your terminal or command prompt and run the following command to install the necessary library:
+---
 
-pip install pysimplegui
+## 🚀 Getting Started
 
-Save the Code: Save the provided Python code as a file named todo_app.py.
+### 1️⃣ Clone the Repository
 
-Execution
-Run the application from your terminal with the following command:
+```bash
+`git clone https://github.com/sabitalfahad/Todo-app.git`
+`cd Todo-app`
+2️⃣ Install Requirements
+Make sure you have Python 3.8+ installed. Then install the GUI library:
 
-python todo_app.py
+```bash
+Copy code
+`pip install FreeSimpleGUI`
+3️⃣ Run the App
+bash
+Copy code
+python app.py
+🧪 Running Tests
+bash
+Copy code
+python test_app.py
+🛠️ Tech Stack
+Python – Core logic & persistence
 
-The application window will appear, ready for you to start managing your tasks.
+FreeSimpleGUI – Lightweight GUI library
 
-Usage
-Add a Todo: Type your task into the input field at the top and press the Add button or the Enter key.
+Plain Text Storage – No database required
 
-Edit a Todo: Select an item from the list, click the Edit button, and the selected todo will appear in the input field for you to modify.
+🤝 Contributing
+Pull requests and suggestions are welcome!
+If you’d like to contribute, please fork the repo and open a PR.
 
-Complete a Todo: Select an item from the list and click the Complete button to remove it.
+
 
 License
 This project is open source and available under the MIT License.
