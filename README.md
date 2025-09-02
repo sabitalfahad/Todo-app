@@ -22,6 +22,7 @@ Built using **FreeSimpleGUI** and plain text storage, this app is perfect for qu
 ```bash
 git clone https://github.com/sabitalfahad/Todo-app.git
 cd Todo-app
+
 2️⃣ Install Requirements
 Make sure you have Python 3.8+ installed. Then install the GUI library:
 
