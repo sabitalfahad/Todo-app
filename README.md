@@ -21,22 +21,26 @@ Easily manage your daily tasks with a clean and lightweight interface.
 ### 1️⃣ Clone the Repository
 
 ```bash
-`git clone https://github.com/sabitalfahad/Todo-app.git`
-`cd Todo-app`
+git clone https://github.com/sabitalfahad/Todo-app.git`
+cd Todo-app
+```
 2️⃣ Install Requirements
 Make sure you have Python 3.8+ installed. Then install the GUI library:
 
 ```bash
 Copy code
-`pip install FreeSimpleGUI`
+pip install FreeSimpleGUI
+```
 3️⃣ Run the App
-bash
+```bash
 Copy code
 python app.py
+```
 🧪 Running Tests
-bash
+```bash
 Copy code
 python test_app.py
+```
 🛠️ Tech Stack
 Python – Core logic & persistence
 
