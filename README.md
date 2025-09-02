@@ -8,11 +8,11 @@ Easily manage your daily tasks with a clean and lightweight interface.
 ## ✨ Features
 
 - ➕ Add new tasks  
-- 🗑️ Remove tasks  
-- ✅ Mark tasks as completed  
+- ♻️ Edit tasks  
+- ✅ Remove tasks after complte
 - 📂 Tasks saved automatically in a text file  
 - 📅 Current date displayed in the UI  
-- 🔄 Clear all tasks at once  
+
 
 ---
 
