@@ -28,7 +28,7 @@ Make sure you have Python 3.8+ installed. Then install the GUI library:
 
 ```bash
 Copy code
-pip install FreeSimpleGUI```
+``pip install FreeSimpleGUI``
 
 3️⃣ Run the App
 ```bash
