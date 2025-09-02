@@ -1,54 +1,39 @@
-# 📝 Todo App
+Python Todo App
+A simple and intuitive desktop todo application built with Python and the PySimpleGUI library. This app allows you to easily manage your daily tasks.
 
-A simple and lightweight **Python-based Todo list application** with a clean GUI.  
-Built using **FreeSimpleGUI** and plain text storage, this app is perfect for quickly managing tasks while keeping things minimal and persistent.
+Features
+Add new todos to your list.
 
----
+Edit existing todos.
 
-## ✨ Features
+Complete (remove) todos once they are finished.
 
-- ➕ Add new tasks  
-- 🖊️ Edit existing tasks  
-- ✅ Mark tasks as complete  
-- 🗑️ Clear all tasks at once  
-- 💾 Tasks saved automatically in a text file  
-- 📅 Current date displayed in the UI  
+App Preview
+How to Run the Application
+Prerequisites
+You need to have Python installed on your system. This application also requires the PySimpleGUI library.
 
----
+Installation
+Install PySimpleGUI: Open your terminal or command prompt and run the following command to install the necessary library:
 
-## 🚀 Getting Started
+pip install pysimplegui
 
-### 1️⃣ Clone the Repository
-```bash
-``git clone https://github.com/sabitalfahad/Todo-app.git
-cd Todo-app``
+Save the Code: Save the provided Python code as a file named todo_app.py.
 
-2️⃣ Install Requirements
-Make sure you have Python 3.8+ installed. Then install the GUI library:
+Execution
+Run the application from your terminal with the following command:
 
-```bash
-Copy code
-``pip install FreeSimpleGUI``
+python todo_app.py
 
-3️⃣ Run the App
-```bash
-Copy code
-python app.py```
+The application window will appear, ready for you to start managing your tasks.
 
-🧪 Running Tests
-```bash
-Copy code
-python test_app.py```
+Usage
+Add a Todo: Type your task into the input field at the top and press the Add button or the Enter key.
 
-🛠️ Tech Stack
-Python (core logic & persistence)
+Edit a Todo: Select an item from the list, click the Edit button, and the selected todo will appear in the input field for you to modify.
 
-FreeSimpleGUI (lightweight GUI library)
+Complete a Todo: Select an item from the list and click the Complete button to remove it.
 
-Plain Text Storage (no database required)
-
-🤝 Contributing
-Pull requests and suggestions are welcome!
-If you’d like to contribute, please fork the repo and open a PR.
-
+License
+This project is open source and available under the MIT License.
 
