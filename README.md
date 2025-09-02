@@ -1,5 +1,5 @@
 Python Todo App
-A simple and intuitive desktop todo application built with Python and the PySimpleGUI library. This app allows you to easily manage your daily tasks.
+A simple and intuitive desktop todo application built with Python and the `PySimpleGUI` library. This app allows you to easily manage your daily tasks.
 
 Features
 Add new todos to your list.
